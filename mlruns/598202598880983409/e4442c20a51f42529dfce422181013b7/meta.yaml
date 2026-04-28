@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/liyunxiao/Desktop/QMSS applied data analysis/takehome
+  exercise/Take_home_exercise_4file/mlruns/598202598880983409/e4442c20a51f42529dfce422181013b7/artifacts
+end_time: 1777402003979
+entry_point_name: ''
+experiment_id: '598202598880983409'
+lifecycle_stage: active
+run_id: e4442c20a51f42529dfce422181013b7
+run_name: logistic_regression_model
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777402003548
+status: 3
+tags: []
+user_id: liyunxiao

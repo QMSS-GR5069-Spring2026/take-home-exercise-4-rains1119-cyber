@@ -1,0 +1,9 @@
+artifact_location: file:///Users/liyunxiao/Desktop/QMSS applied data analysis/takehome
+  exercise/Take_home_exercise_4file/mlruns/598202598880983409
+creation_time: 1777401855634
+experiment_id: '598202598880983409'
+last_update_time: 1777401855634
+lifecycle_stage: active
+name: f1_model_deployment
+trace_location: null
+workspace: default
