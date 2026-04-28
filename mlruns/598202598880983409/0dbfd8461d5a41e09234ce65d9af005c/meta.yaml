@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/liyunxiao/Desktop/QMSS applied data analysis/takehome
+  exercise/Take_home_exercise_4file/mlruns/598202598880983409/0dbfd8461d5a41e09234ce65d9af005c/artifacts
+end_time: 1777405331683
+entry_point_name: ''
+experiment_id: '598202598880983409'
+lifecycle_stage: active
+run_id: 0dbfd8461d5a41e09234ce65d9af005c
+run_name: lyrical-fowl-765
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777402494056
+status: 3
+tags: []
+user_id: liyunxiao
